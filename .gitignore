@@ -1,0 +1,39 @@
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Env
+.env
+.env.*
+
+# Others
+coverage/
+*.local
+*.log
+
+# React
+*.cache
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Ant Design Pro
+mock/.DS_Store
